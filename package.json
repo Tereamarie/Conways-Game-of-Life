@@ -1,0 +1,19 @@
+{
+  "name": "conways-game-of-life",
+  "version": "1.0.0",
+  "description": "My version of Conway's Game of life",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tereamarie/Conways-Game-of-Life.git"
+  },
+  "author": "Teresa Hotchkiss",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Tereamarie/Conways-Game-of-Life/issues"
+  },
+  "homepage": "https://github.com/Tereamarie/Conways-Game-of-Life#readme"
+}
