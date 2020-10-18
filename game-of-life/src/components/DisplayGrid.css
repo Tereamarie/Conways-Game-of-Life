@@ -1,0 +1,24 @@
+.Grid-container {
+    display: flex;
+    flex-direction: column;
+    width: 100%; 
+    justify-content: space-evenly;
+  }
+  .Grid-row {
+    display: flex;
+    flex-direction:row;
+    margin: auto;
+  }
+  
+  .Grid-column {
+    cursor: pointer;
+    border: .1px solid rgb(1, 1, 24);
+    min-height: 15px;
+    min-width: 15px;
+    margin: 1px;
+    background-color: rgb(236, 216, 216);
+  }
+  
+  .living {
+    background-color: black;
+  }
